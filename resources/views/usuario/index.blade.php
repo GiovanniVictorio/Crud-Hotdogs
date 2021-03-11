@@ -9,10 +9,10 @@
 <body>
 	
 	<div class="container">
-		<h4>Gestrión de Usuarios</h4>
+		<h4 class="my-1">Gestión de Usuarios</h4>
 
 		<div class="row">
-			<div class="col-xl-12">
+			<div class="col-xl-12 my-1">
 				<div class="table-responsive">
 					<table class="table table-striped">
 						<thead class="table-dark">
